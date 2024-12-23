@@ -1,0 +1,9 @@
+
+            ********** Books According To There Category **********
+
+ 0.Technology                     | 1.Novel                   | 2.Fiction
+                                  |                           |
+ 0.Introduction To Java.          | 0.Jannat Ka Patta.        | 0.Stranger Things.
+ 1.Data Structures & Algorithm.   | 1.Fifty Shades Of Grey.   | 1.To Kill a Mockingbird.
+ 2.Introduction To CS.            | 2.Peer-e-Kamil.           | 2.The Catcher in the Rye.
+ 3.Basics Of SQL.                 | 3.Harry Potter.           | 3.The Alchemist.
