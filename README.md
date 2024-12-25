@@ -5,7 +5,7 @@ Structure:
 The code defines an abstract class BookWormLibrary with methods for various library functionalities.
 An ImplicationsOfBookWormLibraryFunctions class extends BookWormLibrary and implements the methods.
 
-1. Methods:
+--> Methods:
   1. introDetails: Welcomes the user and prompts them to log in or view library information.
   2. outroDetails: Displays a closing message.
   3. historyOfThisLibrary: Reads and displays text from a file containing the library's history.
@@ -19,7 +19,7 @@ An ImplicationsOfBookWormLibraryFunctions class extends BookWormLibrary and impl
   11. displayBooks: Helper function to display books in a formatted way.
   12. addBookToGenre: Helper function to dynamically add a book to a genre in the array.
 
-2. Improvements:
+--> Improvements:
   1. Error Handling: Consider adding more robust error handling for file operations (reading/writing).
   2. Security: The current login system stores passwords in plain text. Consider using hashing for password storage.
   3. Database: Using a database instead of text files would be more scalable and efficient.
