@@ -644,7 +644,7 @@ public class LibraryManagementSystem {
 //        obj.applyForMembership(); // Tested.
 //        obj.add(); // Tested.
 //        obj.issueBooks(); // Tested.
-//        obj.receiptOfIssuance(); // Tested In "issueBooks()" method.
+//        obj.receiptOfIssuance(); // Tested In "issueBooks()" Method.
 //        obj.borrowedBooks(); // Tested.
 
           /* Calling The "introDetails()" Method Here To Run Whole Code */
